@@ -1,2 +1,2 @@
 # curso_git
-Ejemplo d eprueba con git y github
+Ejemplo de prueba con git y github
